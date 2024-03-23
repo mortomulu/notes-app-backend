@@ -1,2 +1,4 @@
 node_modules
 notes-api-webserver.pem
+https://github.com/mortomulu/notes-app-backend.git
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
